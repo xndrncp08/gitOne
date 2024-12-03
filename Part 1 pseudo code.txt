@@ -1,0 +1,10 @@
+START
+Print welcome message
+List profit margins
+Ask user to enter product category (1-5)
+if user enters 0, stop program.
+if user enters values not between 1-5, print invalid output then continue
+Ask user for quantity
+calculate profit (total_profit += profit_margins[product - 1] * quantity)
+Print total_profit with 2 decimal places
+DONE
